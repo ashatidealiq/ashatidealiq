@@ -1,8 +1,8 @@
 👋 Hi, I’m Ash
 
-I’m interested in machine learning and data engineering projects. 
+I’m interested in machine learning and data engineering projects, and software dev generally. 
 
-I'm mostly self taught and primarily a data guy, but I've been at this a while. I have lots of experience in business and building all kinds of systems. 
+I'm mostly self taught and primarily a data guy, but I've been at this a while. I was a programmer > turned banker > turned back to programmer. I've got lots of experience in business and building systems. 
  
 I’m looking to collaborate on machine learning projects. I'm very interested in finance and property markets right now. If you're doing something in that space and you need help I would love to connect! 
 
