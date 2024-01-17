@@ -10,7 +10,7 @@ I’m looking to collaborate on deep learning projects. I'm particularly interes
 
 I'm currently working on a few projects in the retail lending space in Australia, and solving problems for investment managers - if you're curious get in touch.
  
-📫 You can reach me on ash@creditchat.co or here on Github.
+📫 You can reach me on ash@idealiq.co or here on Github.
 
 AT
 
