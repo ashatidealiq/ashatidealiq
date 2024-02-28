@@ -10,7 +10,7 @@ I’m looking to collaborate on deep learning projects. I'm particularly interes
 
 I'm currently working on a few passion projects in the data engineering space. If you're curious there are a few demos below, otherwise get in touch. 
 
-My freelance day job is solving AI and data problems, and fast prototyping smart solutions for investment managers, funds and fintechs.
+My freelance day job is solving AI & data challenges for investment managers, funds and fintechs.
  
 📫 I would love to hear from you on ash@idealiq.co or here on Github.
 
