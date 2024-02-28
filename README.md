@@ -8,13 +8,13 @@ I've got lots of experience in business and building systems generally. Specific
  
 I’m looking to collaborate on deep learning projects. I'm particularly interested in finance and financial markets. Even property and crypto markets (from a tech perspective at least) If you're doing something in this space and you need help I would love to connect! 
 
-I'm currently working on a few projects in the retail lending space in Australia, and solving problems for investment managers - if you're curious get in touch.
+I'm currently working on a few passion projects in the data engineering space - if you're curious get in touch. My freelance day job is solving AI and data problems for investment managers, funds and fintechs.
  
 📫 You can reach me on ash@idealiq.co or here on Github.
 
 AT
 
 <!---
-ashatcreditchat/ashatcreditchat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ashatidealiq/ashatidealiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
