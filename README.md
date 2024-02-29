@@ -8,13 +8,15 @@ I've got lots of experience in business and building systems generally. Specific
  
 I’m looking to collaborate on deep learning projects. I'm particularly interested in finance and financial markets. Even property and crypto markets (from a tech perspective at least.) If you're doing something in this space and you need help I would love to connect! 
 
-I'm currently working on a few passion projects in the data engineering space. If you're curious there are a few demos below, otherwise get in touch. 
+I'm currently working on a few passion projects in the data engineering space. 
 
-My freelance day job is solving AI & data challenges for investment managers, funds and fintechs.
+My freelance day job is solving AI & data challenges for investment managers, broker-dealers and fintechs.
  
 📫 I would love to hear from you on ash@idealiq.co or here on Github.
 
 AT
+
+ps: A short note on the demos here: they're demos.  
 
 <!---
 ashatidealiq/ashatidealiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
