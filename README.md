@@ -16,7 +16,7 @@ My freelance day job is solving AI & data challenges for investment managers, br
 
 AT
 
-ps: A short note on the demos here: they're demos.  
+ps: A short note on the demos here: they're demos. There's a lot more you can and should do before rolling any of these out into production.
 
 <!---
 ashatidealiq/ashatidealiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
