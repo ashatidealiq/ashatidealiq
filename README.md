@@ -4,11 +4,13 @@ I’m interested in machine learning and data engineering projects, and software
 
 I'm mostly self taught and primarily a data and AI guy, but I've been at this a while. 
 
-I've got lots of experience in business and building systems generally - esp large complex layouts in capital markets, trade pricing and execution strategies, quantitative trading and statistical arbitrage, streaming valuation pipelines, messaging integration... stuff like that.
+I've got lots of experience in business and building systems generally - specifically  designing large complex layouts in capital markets, trade pricing and execution strategies, quantitative trading and statistical arbitrage, streaming valuation pipelines, messaging integration... stuff like that.
  
-I’m interested in collaborating on deep learning projects. I'm particularly interested in finance and financial markets. Even property and crypto markets (from a tech perspective at least.) If you're doing something in this space and you need help I would love to connect! 
+I’m interested in collaborating on deep learning projects - esp in finance and financial markets. Even property (lots of innovation to do there) and crypto markets (from a tech perspective at least.) If you're doing something in this space and you need help I would love to connect! 
 
-I'm currently working on a few passion projects in the data engineering space. My freelance day job is solving AI & data challenges for broker-dealers, funds and fintechs.
+I'm currently working on a few passion projects in the data engineering space including a deep learning ensemble that filters signal from noise in financial markets, a two-sided securitizaton marketplace that helps BTR property developers raise cash, and a founder focused startup incubator for fintech, biotech and proptech (yes, I can probably help you raise capital if you need help). 
+
+My freelance day job is solving business & data challenges for broker-dealers and investment funds.
  
 📫 I would love to hear from you on ash@idealiq.co or here on Github.
 
